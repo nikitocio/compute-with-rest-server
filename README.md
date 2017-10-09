@@ -1,4 +1,4 @@
-# compute-with-rest-client
+# compute-with-rest-server
 Client module to compute pi with rest
 1) go to compute-with-rest-server folder
 2) build project with maven
